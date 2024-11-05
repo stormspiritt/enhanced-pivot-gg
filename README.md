@@ -73,10 +73,6 @@ The implementation of automated testing resulted in:
 
 ---
 
-## Case Study
-
-For a more detailed overview of the project and its impact, visit the [Automated Software Testing Case Study by Innowise](https://innowise.com/case/automated-software-testing/).
-
 ---
 
 ## License
